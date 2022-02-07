@@ -9,4 +9,19 @@
 body {
     font-family: Source Serif 4, sans-serif;
     font-weight: 300;
+    color: gray;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Teko, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: black;
+}
+
+#logo {
+    float: left;
+    font-size: 250%;
 }
