@@ -14,11 +14,11 @@ body {
 
 /* headings and logo */
 
-h1, h2 {
+h1, h2, h5 { 
     font-family: Teko, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: red;
+    color: black;
 }
 
 #logo {
@@ -49,11 +49,40 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-top: 2px solid gray;
-    border-bottom: 2px solid gray;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
 }
 
 .active {
-    border-top: 2px solid gray; 
-    border-bottom: 2px solid gray;
+    border-top: 1px solid gray; 
+    border-bottom: 1px solid gray;
 }
+
+/* logo image */
+
+#logo-outer {
+    height: 350px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#logo-image {
+    height: 350px;
+    width: 100%;
+    background: url('../images/logo-image.webp') no-repeat center center;
+}
+
+#logo-image h1 {
+    color: white;
+    position: relative;
+    top: 65%;
+    left: 40%;
+}
+
+#logo-image h5 {
+    color: white;
+    position: relative;
+    top: 65%;
+    left: 60%;
+}
+
