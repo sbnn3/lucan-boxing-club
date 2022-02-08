@@ -9,7 +9,7 @@
 body {
     font-family: Source Serif 4, sans-serif;
     font-weight: 300;
-    color: black;
+    color: gray;
 }
 
 /* headings and logo */
@@ -89,27 +89,47 @@ h1, h2, h3, h5 {
 /* About Us */
 
 #about-us {
+    height: 600px;
+}
+
+#start-up {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 200%;
+}
+
+#about-description1 {
+    padding-top: 30px;
+    width: 40%;
+    float: left;
+}
+
+.about-left {
+    width: 90%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+#about-right {
+    height: 400px;
+    width: 150%;
+    float: top;
+    background: url('../images/about-image.jpg') no-repeat center center;
+}
+
+#welcome {
     text-align: center;
     background-color: gray;
     border-bottom: 1px solid black;
     border-top: 1px solid black;
 }
 
-#about-descp {
-    padding-left: 50px;
-    font-size: large;
-}
 
 table, th, td {
     border: 1px solid black;
     text-align: center;
-}
-
-input[type=text] {
-    height: 30px;
-    width: 90%;
-    padding-left: 10%;
-    margin: 0 auto;
 }
 
 /* Location */
