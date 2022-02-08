@@ -14,7 +14,7 @@ body {
 
 /* headings and logo */
 
-h1, h2, h5 { 
+h1, h2, h3, h5 { 
     font-family: Teko, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -83,6 +83,27 @@ h1, h2, h5 {
     color: white;
     position: relative;
     top: 65%;
-    left: 60%;
+    left: 47%;
 }
 
+/* About Us */
+
+#about-us {
+    text-align: center;
+    background-color: gray;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+
+#about-descp {
+    padding-left: 50px;
+    font-size: large;
+}
+
+#about-tab {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-radius: 1px solid black;
+}
