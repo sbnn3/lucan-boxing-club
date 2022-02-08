@@ -127,5 +127,15 @@ input[type=text] {
 
 .social-net {
     text-align: center;
+}
+
+.social-net > li {
     display: inline;
+}
+
+.social-net i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 3%;
+    color: black
 }
