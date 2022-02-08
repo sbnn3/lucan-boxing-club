@@ -9,7 +9,7 @@
 body {
     font-family: Source Serif 4, sans-serif;
     font-weight: 300;
-    color: gray;
+    color: black;
 }
 
 /* headings and logo */
@@ -103,4 +103,24 @@ h1, h2, h3, h5 {
 table, th, td {
     border: 1px solid black;
     text-align: center;
+}
+
+input[type=text] {
+    height: 30px;
+    width: 90%;
+    padding-left: 10%;
+    margin: 0 auto;
+}
+
+/* Location */
+
+#map-det {
+    height: 300px;
+    margin-bottom: 107px;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    border: none;
 }
