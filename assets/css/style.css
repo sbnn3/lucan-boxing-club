@@ -124,3 +124,8 @@ input[type=text] {
     width: 100%;
     border: none;
 }
+
+.social-net {
+    text-align: center;
+    display: inline;
+}
