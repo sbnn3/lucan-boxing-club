@@ -169,6 +169,9 @@ table, th, td {
 /* Sign-up form */
 
 .signup-form {
+    background-color: gray;
+    color: white;
     clear: left;
     height: 500px;
+    display: block;
 }
