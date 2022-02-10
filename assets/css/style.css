@@ -125,9 +125,6 @@ hr {
     background: url('../images/about-image.jpg') no-repeat center center;
 }
 
-
-
-
 table, th, td {
     border: 1px solid black;
     text-align: center;
@@ -148,6 +145,7 @@ table, th, td {
 
 .social-net {
     text-align: center;
+    background-color: gray;
 }
 
 .social-net > li {
@@ -158,14 +156,14 @@ table, th, td {
     font-size: 150%;
     margin: 1%;
     padding: 3%;
-    color: black
+    color: black;
 }
 
 /* Sign-up form */
 
 .signup-form {
     background-color: gray;
-    color: white;
+    color: black;
     height: 250px;
     text-align: center;
 }
@@ -175,4 +173,13 @@ table, th, td {
 .contact-box {
     text-align: center;
     background-color: white;
+}
+
+.submit-button {
+    margin-top: 20px;
+    padding: 12px 24px 12px 24px;
+    text-align: center;
+    font-size: small;
+    background-color: black;
+    color: white;
 }
