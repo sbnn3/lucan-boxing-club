@@ -143,6 +143,8 @@ table, th, td {
     border: none;
 }
 
+/* Social Networks */
+
 .social-net {
     text-align: center;
     background-color: gray;
@@ -168,20 +170,20 @@ table, th, td {
     text-align: center;
 }
 
+    .submit-button {
+        margin-top: 20px;
+        padding: 12px 24px 12px 24px;
+        text-align: center;
+        font-size: small;
+        background-color: black;
+        color: white;
+    }
+
 /* Contact */
 
 .contact-box {
     text-align: center;
     background-color: white;
-}
-
-.submit-button {
-    margin-top: 20px;
-    padding: 12px 24px 12px 24px;
-    text-align: center;
-    font-size: small;
-    background-color: black;
-    color: white;
 }
 
 /* Media queries */
