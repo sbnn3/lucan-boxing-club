@@ -12,6 +12,12 @@ body {
     color: gray;
 }
 
+hr {
+    border-bottom: 1px solid black;
+    width: 99%;
+    margin: 5px;;
+}
+
 /* headings and logo */
 
 h1, h2, h3, h5 { 
@@ -74,110 +80,25 @@ h1, h2, h3, h5 {
 
 #logo-image h1 {
     color: white;
-    position: relative;
-    top: 65%;
+    position: absolute;
+    top: 50%;
     left: 40%;
 }
 
 #logo-image h5 {
     color: white;
-    position: relative;
-    top: 65%;
-    left: 47%;
+    position: absolute;
+    top: 55%;
+    left: 50%;
 }
 
 /* About Us */
 
-#about-us {
-    height: 600px;
-}
 
-#start-up {
-    text-align: center;
-    margin: 20px 0;
-    font-size: 200%;
-}
+/* Trophees */
 
-hr {
-    border-bottom: 1px solid black;
-    width: 100%;
-    margin: 5px;
-}
 
-#about-description1 {
-    padding-top: 30px;
-    width: 40%;
-    float: left;
-}
-
-.about-left {
-    width: 90%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-}
-
-#about-right {
-    height: 400px;
-    width: 150%;
-    float: top;
-    background: url('../images/about-image.jpg') no-repeat center center;
-}
-
-table, th, td {
-    border: 1px solid black;
-    text-align: center;
-}
-
-/* Location */
-
-#map-det {
-    height: 250px;
-    margin-bottom: 100px;
-}
-
-#map {
-    height: 110%;
-    width: 100%;
-    border: none;
-}
-
-/* Social Networks */
-
-.social-net {
-    text-align: center;
-    background-color: gray;
-}
-
-.social-net > li {
-    display: inline;
-}
-
-.social-net i {
-    font-size: 150%;
-    margin: 1%;
-    padding: 3%;
-    color: black;
-}
-
-/* Sign-up form */
-
-.signup-form {
-    background-color: gray;
-    color: black;
-    height: 300px;
-    text-align: center;
-}
-
-    .submit-button {
-        margin-top: 20px;
-        padding: 12px 24px 12px 24px;
-        text-align: center;
-        font-size: small;
-        background-color: black;
-        color: white;
-    }
+/* Sign Up */
 
 /* Contact */
 
@@ -188,21 +109,3 @@ table, th, td {
 
 /* Media queries */
 
-@media screen and (max-width: 900px) {
-    #about {
-        width: 60%;
-        height: 900px;
-        margin: 0 auto;
-    }
-
-    #start-up {
-        padding: 20px 0;
-        margin: 0;
-    }
-
-    #about-left, #about-right {
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-}
