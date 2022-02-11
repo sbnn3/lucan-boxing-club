@@ -15,7 +15,13 @@ body {
 hr {
     border-bottom: 1px solid black;
     width: 99%;
-    margin: 5px;;
+    margin: 5px;
+}
+
+#hello {
+    text-align: center;
+    margin: 20px 0;
+    font-size: xx-large;
 }
 
 /* headings and logo */
@@ -93,6 +99,61 @@ h1, h2, h3, h5 {
 }
 
 /* About Us */
+
+#about {
+    height: 600px;
+}
+
+#about-left {
+    padding-top: 30px;
+    width: 29%;
+    float: left;
+}
+
+#about-right {
+    padding-top: 30px;
+    width: 38%;
+    float: right;
+}
+
+.about-left-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.about-right-heading {
+    width: 70%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    
+}
+
+.about-right-heading table {
+    right: 100%;
+}
+
+#about-centre {
+    width: 33%;
+    margin: 0 auto;
+}
+
+table, th, td {
+    text-align: center;
+    border: 1px solid black;
+}
+
+#img-style {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px;
+    width: 67.5%; 
+    height: 450px;
+}
 
 
 /* Trophees */
