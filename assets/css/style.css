@@ -158,10 +158,17 @@ table, th, td {
 }
 
 
-/* Trophees */
+/* Gallery */
 
-#trophees {
-    height: 500px
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%;
 }
 
 
@@ -182,7 +189,7 @@ table, th, td {
     max-width: 400px;
     position: absolute;
     left: 30%;
-    top: 255%;
+    top: 380%;
     padding: 100px;
 }
 
