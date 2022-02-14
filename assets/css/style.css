@@ -224,6 +224,10 @@ table, th, td {
     height: 600px;
 }
 
+#address {
+    text-align: center;
+}
+
 .contact-box {
     text-align: center;
     background-color: white;
