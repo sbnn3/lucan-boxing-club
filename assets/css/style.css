@@ -296,5 +296,23 @@ footer {
         line-height: 25px;
     }
 
+    #logo-image h1, h5{
+        left: 0;
+    }
+
+    #about {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .about-left-heading, .about-right-heading {
+        width: inherit;
+    }
+
+    #about-centre img {
+        float: left;
+        padding:
+    }
 }
 
