@@ -86,13 +86,6 @@ h1, h2, h3, h5 {
     background: url('../images/logo-image.webp') no-repeat center center;
 }
 
-#logo-image h1 {
-    color: white;
-    position: absolute;
-    top: 45%;
-    left: 40%;
-}
-
 /* About Us */
 
 #about {
