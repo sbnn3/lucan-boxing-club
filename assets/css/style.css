@@ -321,7 +321,7 @@ footer {
 
     #photos {
         width: 90%;
-        height: 500px;
+        height: 300px;
         margin: 0 auto;
     }
 
@@ -332,7 +332,7 @@ footer {
     }
 
     #sign-up form {
-        top: 265%;
+        top: 10%;
         left: 10%;
     }
 }
