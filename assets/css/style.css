@@ -189,7 +189,7 @@ table, th, td {
     max-width: 400px;
     position: absolute;
     left: 30%;
-    top: 380%;
+    top: 20%;
     padding: 100px;
 }
 
@@ -216,7 +216,6 @@ table, th, td {
     color: white;
     display: block;
 }
-
 
 /* Contact */
 
@@ -257,6 +256,7 @@ footer {
 /* Media queries */
 
 @media screen and (max-width: 1300px) {
+    
     #about {
         width: 65%;
         height: 1100px;
