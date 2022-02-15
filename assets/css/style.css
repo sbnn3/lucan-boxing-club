@@ -89,15 +89,8 @@ h1, h2, h3, h5 {
 #logo-image h1 {
     color: white;
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 40%;
-}
-
-#logo-image h5 {
-    color: white;
-    position: absolute;
-    top: 55%;
-    left: 50%;
 }
 
 /* About Us */
@@ -295,8 +288,9 @@ footer {
         line-height: 25px;
     }
 
-    #logo-image h1, h5 {
+    #logo-image h1 {
         left: 0;
+        top: 50%;
     }
 
     #about {
