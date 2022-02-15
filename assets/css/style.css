@@ -318,4 +318,21 @@ footer {
         text-align: center;
         padding: 0 20px;
     }
+
+    #photos {
+        width: 90%;
+        height: 500px;
+        margin: 0 auto;
+    }
+
+    #sign-up {
+        width: 90%;
+        height: 600px;
+        margin: 0 auto;
+    }
+
+    #sign-up form {
+        top: 265%;
+        left: 10%;
+    }
 }
