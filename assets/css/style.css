@@ -295,5 +295,27 @@ footer {
         line-height: 25px;
     }
 
-    
+    #logo-image h1, h5 {
+        left: 0;
+    }
+
+    #about {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .about-left-heading, .about-right-heading {
+        width: inherit;
+    }
+
+    .about-left-heading h3, .about-right-heading h3 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .about-left-heading p, .about-right-heading p {
+        text-align: center;
+        padding: 0 20px;
+    }
 }
