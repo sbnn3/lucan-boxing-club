@@ -68,7 +68,7 @@ HTML - No errors were returned when passing through the official W3C Validator.<
 <li>CSS - No errors were returned when passing through the official (Jigsaw) Validator.</li>
 </ul>
 <h3>Accesibility</h3><br>
-<img src="assets/images/accesibility.png" alt="Accesibility">
+<img src="assets/images/accesibility1.png" alt="Accesibility">
 <hr>
 <h1>Media</h1>
 <ul>
