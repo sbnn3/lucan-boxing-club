@@ -50,5 +50,27 @@ Gallery page contains a different photos during training and championships of cl
 <ul>
 <li> 
 Sing-Up Page contains a very beautiful photo like background and a sign-up form situated on the middle of image.</li></ul><br>
-<img src="assets/images/sing-up.png" alt="Sign-Up">
+<img src="assets/images/sign-up.png" alt="Sign-Up">
 <hr>
+<h1>Contact</h1>
+<ul>
+<li>
+The Contact section is situated at the bottom of every page on the website.</li>
+<li>
+The Contact section contains details about club address, contact details, google maps exactly location indicated and social media links.</li></ul><br>
+<img src="assets/images/contact.png" alt="Contact">
+<img src="assets/images/social.png" alt="Social">
+<hr>
+<h1>Validator Testing</h1>
+<ul>
+<li>
+HTML - No errors were returned when passing through the official W3C Validator.</li>
+<li>CSS - No errors were returned when passing through the official (Jigsaw) Validator.</li>
+</ul>
+<h3>Accesibility</h3><br>
+<img src="assets/images/accesibility.png" alt="Accesibility">
+<hr>
+<h1>Media</h1>
+<ul>
+<li> 
+All images from the website was taken from <a href="https://www.pexels.com/">Pexels</a></li></ul>
