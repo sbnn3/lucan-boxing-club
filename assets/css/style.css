@@ -9,7 +9,7 @@
 body {
     font-family: Source Serif 4, sans-serif;
     font-weight: 300;
-    color: gray;
+    color: black;
 }
 
 hr {
@@ -63,13 +63,13 @@ h1, h2, h3, h5 {
 }
 
 #menu a:hover {
-    border-top: 1px solid gray;
-    border-bottom: 1px solid gray;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 .active {
-    border-top: 1px solid gray; 
-    border-bottom: 1px solid gray;
+    border-top: 1px solid black; 
+    border-bottom: 1px solid black;
 }
 
 /* logo image */
@@ -221,11 +221,7 @@ footer {
     font-size: 200%;
     margin: 2%;
     padding: 6px;
-    color: gray
-}
-
-#contact {
-    height: 600px;
+    color: black;
 }
 
 #contact-hello {
