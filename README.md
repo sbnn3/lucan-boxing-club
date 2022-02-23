@@ -36,18 +36,6 @@ The website design will allow you to access all sections easy and to enjoy every
 </ul>
 <hr>
 
-# **Testing User Stories from User Experience (UX) Section**
-
-<ul>
-<li><strong>First Time Visitor Goals</strong></li>
-<ul>
-<li>As a first time visitor, i would like to easily understand the website's main propose and learn more about the club.</li>
-<ul>
-<li>Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar that will help to visit all our website pages and about us section, where you can learn more about the club.</li>
-<li>The user has the option to sign-up online and visit the gallery page for images during tournaments and trainings.</li>
-</ul></ul></ul>
-
-
 # **Design**
 <ul>
 <li><strong>Colour Scheme</strong></li>
