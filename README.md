@@ -8,29 +8,48 @@ The website design will allow you to access all sections easy and to enjoy every
 
 # **User Experience (UX)**
 <ul>
-<li><h3>User Stories</h3></li>
+<li><h3>User Stories & Testing</h3></li>
 <ul>
 <li><strong>First Time Visitor Goals</strong></li>
 <ol type="a">
 <li>As a first time visitor, i would like to easily understand the website's main propose and learn more about the club.</li>
+<ul>
+<li>The section about us contains information about our club, the navigation bar will help you to access all information you are looking for.</li></ul>
 <li>As a first time visitor, i want to be able to easy navigate throughout the website.</li>
+<ul>
+<li>The navigation is bar is very simple to use, only in 3 navigation options you can have all information. </li></ul>
 <li>As a first time visitor, i would like to find information and details that i'm looking for.</li>
+<ul>
+<li>The website design, navigation bar is very easy to use. All information is at few clicks distance from you.</li>
+</ul>
 </ol>
 </ul>
 <ul>
 <li><strong>Returning Visitor Goals</strong></li>
 <ol type="a">
-<li>As a returning visitor, i would like to find information about membership types and prices.</li>
-<li>As a returning visitor, i want to find a online chat.</li>
-<li>As a returning visitor, i want to find a trophees section details.</li>
+<li>As a returning visitor, i would like to find information about social media pages.</li>
+<ul>
+<li>The social media pages is attached at the bottom of every website page.</li></ul>
+<li>As a returning visitor, i want to find a sign-up page.</li>
+<ul>
+<li>The Sign-Up page is situated like the last page on the website and can be found on the navigation bar like last option.</li></ul>
+<li>As a returning visitor, i want to find a gallery page.</li>
+<ul>
+<li>The Gallery page is situated like the second page on the website and can be found on the navigation bar like second option.</li></ul>
 </ol>
 </ul>
 <ul>
 <li><strong>Frequent User Goals</strong></li>
 <ol type="a">
 <li>As a frequent user, i want to check if there any new photos from training or championships.</li>
+<ul>
+<li>All new club photos from training and championship will be available on the website gallery page that is the second option in navigation bar.</li></ul>
 <li>As a frequent user, i want to check if there any news relating upcoming championships.</li>
+<ul>
+<li> All news relating upcoming championships will appear on the main page.</li></ul>
 <li>As a frequent user, i want to Sign-Up and receive email notifications all the time when some major updates happen.</li>
+<ul>
+<li>The Sign-Up page is very easy to access, very simple to create a profile and be the first who knows about every major update.</li></ul>
 </ol>
 </ul>
 </ul>
